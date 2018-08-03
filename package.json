@@ -30,7 +30,7 @@
     "handlebars": "^4.0.5",
     "mkdirp": "^0.5.0",
     "q": "^1.1.2",
-    "svg2ttf": "^4.0.0",
+    "svg2ttf": "^4.1.0",
     "svgicons2svgfont": "^5.0.0",
     "ttf2eot": "^2.0.0",
     "ttf2woff": "^2.0.1",
